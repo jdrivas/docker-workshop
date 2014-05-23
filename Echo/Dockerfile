@@ -1,5 +1,5 @@
 FROM ubuntu
 MAINTAINER JDR
 
-ENTRYPOINT ["echo Hello World"]
+ENTRYPOINT echo Hello Worldk
 
