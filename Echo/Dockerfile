@@ -1,0 +1,5 @@
+FROM ubuntu
+MAINTAINER JDR
+
+ENTRYPOINT echo
+
