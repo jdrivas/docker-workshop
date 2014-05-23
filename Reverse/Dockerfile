@@ -1,5 +1,5 @@
 FROM ubuntu
 MAINTAINER JDR
 
-RUN rev
+CMD rev
 
